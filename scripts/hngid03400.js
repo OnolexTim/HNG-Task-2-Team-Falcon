@@ -1,2 +1,6 @@
-var input = ["Abasiono" + " Timothy" + " with HNGi7 ID HNG-03400"];  
-console.log("Hello World," + " this is" + input + " using javascript for stage 2 task" + " email@abasionotimothy@gmail.com);
+var name = ["Abasiono Timothy"];
+var myId = ["HNG-03400"];
+const language=["javascript"];
+const email= ["abasionotimothy@gmail.com"];       
+console.log("Hello World, this is " + name + " " + "with HNGi7 ID " + myId + " using " + language + " for stage 2 task");
+  
